@@ -1,5 +1,6 @@
 # 🚀 Python Project
 **Made by NotLucky, NoirR4IT0**
+**Note:**Make sure to run this command in Visual Studio Code before running the app:```discord.py aiohttp```**or**```py -m pip install discord.py aiohttp```
 
 
 > ⚡ A simple and powerful Discord Server Nuker Bot!
